@@ -1,0 +1,6 @@
+# Copy to .dev.vars for local `wrangler dev` / `npm run spike`.
+# .dev.vars is gitignored — never commit real values.
+
+FMP_API_KEY=your_fmp_api_key_here
+WORKER_SHARED_SECRET=your_worker_shared_key_here
+
